@@ -17,6 +17,9 @@
 <h3> Installing git </h3>
 <p>On a terminal, run:</p>
 <p><code>sudo pacman -S git</code></p>
+<h2>If you don't have BASH</h2>
+<p>If you don't have bash, you can run it with <code>./yayinstaller</code></p>
+<p>this should work everywhere!</p>
 
 <h2> Packages installed </h2>
 <p>The packages that the script installs are:</p>
