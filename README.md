@@ -12,7 +12,8 @@
 <p>You don't actually install it, but rather run it.</p>
 <p>First, download the zip file or install git and clone it with:</p> 
 <p><code>git clone https://github.com/ruben-fonti/yayinstaller.git</code></p>
-<p>Then, run the script with:</p>
+<p>Then, enter in yayinstaller folder:</p>
+<p><code>cd yayinstaller</code></p>
 <p><code>bash yayinstaller.sh</code></p>
 <h3> Installing git </h3>
 <p>On a terminal, run:</p>
