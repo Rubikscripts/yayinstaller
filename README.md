@@ -1,4 +1,4 @@
-> [!NOTE]
+> !NOTE
 <p>Yeah, I'm still alive, I'm starting a new project that might interest you. Updates for Yayinstaller are coming soon!</p>
 <h1> YAYINSTALLER </h1>
 <p>This is my first little project. Hope you like it!</p>
